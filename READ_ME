@@ -1,0 +1,14 @@
+This code processes corpus data to extract various ID estimates using different methods. 
+
+Running the Code:
+Run the cells of NLP_A3_Code in order once each
+
+Dependencies and version control:
+Python version: 3.12.13
+requests: 2.32.4
+numpy: 2.0.2
+pandas: 2.2.2
+matplotlib: 3.10.0
+torch: 2.10.0
+transformers: 5.0.0
+scikit-dimension: 0.3.4
